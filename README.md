@@ -2,7 +2,13 @@
 ### Simple PHP Script to integrate Shortty.ml API with your Website
 
 ## What is Shortty
-Shortty is a URL Sortner Website based around markteing your URL and B2B Marketing Services
+Shortty is a URL Shortener Website based around markteing your URL and B2B Marketing Services
+
+ One short link, infinite possibilities.
+ 
+A short link is a powerful marketing tool when you use it carefully. It is not just a link but a medium between your customer and their destination. A short link allows you to collect so much data about your customers and their behaviors.
+
+That is what Shortty About
 
 ## How to get an API Key
 1. Go to Shortty.ml
