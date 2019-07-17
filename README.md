@@ -38,3 +38,6 @@ That is what Shortty About
 
 ## Shortty Website
 https://shortty.ml/
+
+## Copyright
+Integrated by Black.Hacker@DarkSoftwareCo - 2019
