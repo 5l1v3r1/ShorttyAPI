@@ -27,5 +27,10 @@ That is what Shortty About
 5. Enter your URL and Your Key then click send
 6. Done
 
+## Screenshots
+![screenshot](https://1.top4top.net/p_12932uck31.png)
+
+![screenshot](https://2.top4top.net/p_1293c8rvn2.png)
+
 ## Shortty Website
 https://shortty.ml/
