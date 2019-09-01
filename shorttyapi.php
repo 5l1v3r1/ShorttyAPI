@@ -37,7 +37,6 @@ echo ('Long URL : '
 .shorten($url)
 .'<br /><br />'
 .'Powered by: <a href="https://shortty.ml">Shortty</a>
-
 </body>
-</html>"');
+</html>');
 ?>
