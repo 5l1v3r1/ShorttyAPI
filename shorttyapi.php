@@ -10,7 +10,7 @@ $url = $_GET['url'];
 
 function shorten($url, $custom = "", $format = "text") {
  $api_key = $_GET['apikey'];
- $api_url = "https://shortty.ml/api/?key=".$api_key;
+ $api_url = "https://shortty.co/api/?key=".$api_key;
  $api_url .= "&url=".urlencode(filter_var($url, FILTER_SANITIZE_URL));
  if(!empty($custom)){
  	$api_url .= "&custom=".strip_tags($custom);
@@ -36,7 +36,7 @@ echo ('Long URL : '
 ."Your shorten URL : "
 .shorten($url)
 .'<br /><br />'
-.'Powered by: <a href="https://shortty.ml">Shortty</a>
+.'Powered by: <a href="https://shortty.co">Shortty</a>
 </body>
 </html>');
 ?>
